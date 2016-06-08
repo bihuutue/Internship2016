@@ -1,0 +1,3 @@
+#Specific work involved
+JSON_Proto/
+Change email/

@@ -1,0 +1,6 @@
+C:\Tue Nguyen\trialCsharp\CreateObjectFromText\CreateObjectFromText\bin\Debug\CreateObjectFromText.exe.config
+C:\Tue Nguyen\trialCsharp\CreateObjectFromText\CreateObjectFromText\obj\Debug\CreateObjectFromText.csprojResolveAssemblyReference.cache
+C:\Tue Nguyen\trialCsharp\CreateObjectFromText\CreateObjectFromText\bin\Debug\CreateObjectFromText.exe
+C:\Tue Nguyen\trialCsharp\CreateObjectFromText\CreateObjectFromText\bin\Debug\CreateObjectFromText.pdb
+C:\Tue Nguyen\trialCsharp\CreateObjectFromText\CreateObjectFromText\obj\Debug\CreateObjectFromText.exe
+C:\Tue Nguyen\trialCsharp\CreateObjectFromText\CreateObjectFromText\obj\Debug\CreateObjectFromText.pdb

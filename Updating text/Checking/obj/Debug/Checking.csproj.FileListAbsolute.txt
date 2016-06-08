@@ -1,0 +1,5 @@
+C:\Tue Nguyen\trialCsharp\Updating text\Checking\bin\Debug\Checking.exe.config
+C:\Tue Nguyen\trialCsharp\Updating text\Checking\bin\Debug\Checking.exe
+C:\Tue Nguyen\trialCsharp\Updating text\Checking\bin\Debug\Checking.pdb
+C:\Tue Nguyen\trialCsharp\Updating text\Checking\obj\Debug\Checking.exe
+C:\Tue Nguyen\trialCsharp\Updating text\Checking\obj\Debug\Checking.pdb

@@ -1,0 +1,6 @@
+C:\Tue Nguyen\trialCsharp\Reflection_Trial\Reflection_Trial\bin\Debug\Reflection_Trial.exe.config
+C:\Tue Nguyen\trialCsharp\Reflection_Trial\Reflection_Trial\obj\Debug\Reflection_Trial.csprojResolveAssemblyReference.cache
+C:\Tue Nguyen\trialCsharp\Reflection_Trial\Reflection_Trial\bin\Debug\Reflection_Trial.exe
+C:\Tue Nguyen\trialCsharp\Reflection_Trial\Reflection_Trial\bin\Debug\Reflection_Trial.pdb
+C:\Tue Nguyen\trialCsharp\Reflection_Trial\Reflection_Trial\obj\Debug\Reflection_Trial.exe
+C:\Tue Nguyen\trialCsharp\Reflection_Trial\Reflection_Trial\obj\Debug\Reflection_Trial.pdb

@@ -1,0 +1,7 @@
+C:\Tue Nguyen\test\Calculator\CalTest\bin\Debug\CalTest.dll
+C:\Tue Nguyen\test\Calculator\CalTest\bin\Debug\CalTest.pdb
+C:\Tue Nguyen\test\Calculator\CalTest\bin\Debug\Project2.exe
+C:\Tue Nguyen\test\Calculator\CalTest\bin\Debug\Project2.pdb
+C:\Tue Nguyen\test\Calculator\CalTest\obj\Debug\CalTest.csprojResolveAssemblyReference.cache
+C:\Tue Nguyen\test\Calculator\CalTest\obj\Debug\CalTest.dll
+C:\Tue Nguyen\test\Calculator\CalTest\obj\Debug\CalTest.pdb

@@ -1,0 +1,5 @@
+C:\Tue Nguyen\trialCsharp\ParallelProgramming\StopWatchTest\bin\Debug\StopWatchTest.exe.config
+C:\Tue Nguyen\trialCsharp\ParallelProgramming\StopWatchTest\bin\Debug\StopWatchTest.exe
+C:\Tue Nguyen\trialCsharp\ParallelProgramming\StopWatchTest\bin\Debug\StopWatchTest.pdb
+C:\Tue Nguyen\trialCsharp\ParallelProgramming\StopWatchTest\obj\Debug\StopWatchTest.exe
+C:\Tue Nguyen\trialCsharp\ParallelProgramming\StopWatchTest\obj\Debug\StopWatchTest.pdb

@@ -1,0 +1,9 @@
+C:\Users\t_tuen\Desktop\test\Project1\Project1\bin\Debug\Project1.exe.config
+C:\Users\t_tuen\Desktop\test\Project1\Project1\bin\Debug\Project1.exe
+C:\Users\t_tuen\Desktop\test\Project1\Project1\bin\Debug\Project1.pdb
+C:\Users\t_tuen\Desktop\test\Project1\Project1\obj\Debug\Project1.csprojResolveAssemblyReference.cache
+C:\Users\t_tuen\Desktop\test\Project1\Project1\obj\Debug\Project1.exe
+C:\Users\t_tuen\Desktop\test\Project1\Project1\obj\Debug\Project1.pdb
+C:\Tue Nguyen\trialCsharp\Project1\Project1\bin\Debug\Project1.exe.config
+C:\Tue Nguyen\trialCsharp\Project1\Project1\obj\Debug\Project1.exe
+C:\Tue Nguyen\trialCsharp\Project1\Project1\obj\Debug\Project1.pdb

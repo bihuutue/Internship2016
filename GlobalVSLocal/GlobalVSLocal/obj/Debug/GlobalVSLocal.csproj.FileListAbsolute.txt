@@ -1,0 +1,6 @@
+C:\Tue Nguyen\trialCsharp\GlobalVSLocal\GlobalVSLocal\bin\Debug\GlobalVSLocal.exe.config
+C:\Tue Nguyen\trialCsharp\GlobalVSLocal\GlobalVSLocal\bin\Debug\GlobalVSLocal.exe
+C:\Tue Nguyen\trialCsharp\GlobalVSLocal\GlobalVSLocal\bin\Debug\GlobalVSLocal.pdb
+C:\Tue Nguyen\trialCsharp\GlobalVSLocal\GlobalVSLocal\obj\Debug\GlobalVSLocal.csprojResolveAssemblyReference.cache
+C:\Tue Nguyen\trialCsharp\GlobalVSLocal\GlobalVSLocal\obj\Debug\GlobalVSLocal.exe
+C:\Tue Nguyen\trialCsharp\GlobalVSLocal\GlobalVSLocal\obj\Debug\GlobalVSLocal.pdb

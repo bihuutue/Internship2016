@@ -1,0 +1,9 @@
+C:\Tue Nguyen\test\Calculator\Project2\bin\Debug\Project2.exe.config
+C:\Tue Nguyen\test\Calculator\Project2\bin\Debug\Project2.exe
+C:\Tue Nguyen\test\Calculator\Project2\bin\Debug\Project2.pdb
+C:\Tue Nguyen\test\Calculator\Project2\obj\Debug\Project2.exe
+C:\Tue Nguyen\test\Calculator\Project2\obj\Debug\Project2.pdb
+C:\Tue Nguyen\test\Calculator\Project2\obj\Debug\Project2.csprojResolveAssemblyReference.cache
+C:\Tue Nguyen\trialCsharp\Calculator\Project2\bin\Debug\Project2.exe.config
+C:\Tue Nguyen\trialCsharp\Calculator\Project2\obj\Debug\Project2.exe
+C:\Tue Nguyen\trialCsharp\Calculator\Project2\obj\Debug\Project2.pdb

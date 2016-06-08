@@ -1,0 +1,6 @@
+C:\Tue Nguyen\trialCsharp\ParallelProgramming\ParallelProgramming\bin\Debug\ParallelProgramming.exe.config
+C:\Tue Nguyen\trialCsharp\ParallelProgramming\ParallelProgramming\obj\Debug\ParallelProgramming.csprojResolveAssemblyReference.cache
+C:\Tue Nguyen\trialCsharp\ParallelProgramming\ParallelProgramming\bin\Debug\ParallelProgramming.exe
+C:\Tue Nguyen\trialCsharp\ParallelProgramming\ParallelProgramming\bin\Debug\ParallelProgramming.pdb
+C:\Tue Nguyen\trialCsharp\ParallelProgramming\ParallelProgramming\obj\Debug\ParallelProgramming.exe
+C:\Tue Nguyen\trialCsharp\ParallelProgramming\ParallelProgramming\obj\Debug\ParallelProgramming.pdb
